@@ -1,4 +1,5 @@
 import Weather from "./Weather";
+import "./App.css";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
           <a
             href="https://infallible-goldberg-4e9ba6.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Anna Bray
           </a>{" "}
@@ -18,6 +20,7 @@ export default function App() {
           <a
             href="https://github.com/Annalouise643/react-weather-project"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             open-sourced on GitHub
