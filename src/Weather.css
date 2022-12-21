@@ -1,16 +1,11 @@
 body {
   font-family: Google Sans, arial, sans-serif;
 }
-
 .Weather {
   border: 1px solid #dadde1;
   border-radius: 4px;;
-  padding: 16px;
-
-  
+  padding: 16px; 
 }
-
-
 .Weather h1 {
 font-size: 22px;
   line-height: 26px;
